@@ -20,8 +20,5 @@
 - Additional APIs: Google Calendar (optional for scheduling), SMTP for email (optional)
 
 
-## Setup & Run (local)
-1. Clone the repo:
-```bash
-git clone <your-repo-url>
-cd hr-ai-agent/demo
+
+
